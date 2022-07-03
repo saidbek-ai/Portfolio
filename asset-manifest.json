@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.e328db52.css",
+    "main.js": "/Portfolio/static/js/main.d6c89b0f.js",
+    "static/media/multipage.png": "/Portfolio/static/media/multipage.469e4f6345f2a6a02e92.png",
+    "static/media/saidbek.jpg": "/Portfolio/static/media/saidbek.9c45c9c8040c4029120c.jpg",
+    "static/media/landpage.png": "/Portfolio/static/media/landpage.2731045ee61cd4b5b029.png",
+    "static/media/portfolio.png": "/Portfolio/static/media/portfolio.af8d2bd10ad5b38322a6.png",
+    "index.html": "/Portfolio/index.html",
+    "main.e328db52.css.map": "/Portfolio/static/css/main.e328db52.css.map",
+    "main.d6c89b0f.js.map": "/Portfolio/static/js/main.d6c89b0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e328db52.css",
+    "static/js/main.d6c89b0f.js"
+  ]
+}
